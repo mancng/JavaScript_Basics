@@ -77,3 +77,11 @@ p{
 #navi ul li, a{
     color: rgb(105, 202, 209);
 }
+
+#content ul li{
+    margin-top: 10px;
+}
+
+.dot{
+    list-style-type: none;
+}
